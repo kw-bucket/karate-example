@@ -1,0 +1,15 @@
+{
+    "status": {
+        "code": "A2000",
+        "message": "Success",
+        "description": "Success"
+    },
+    "data": {
+        "page": {
+            "size": #(size),
+            "offset": #(offset),
+            "total_item": #(total_item)
+        },
+        "accounts": #(accounts)
+    }
+}

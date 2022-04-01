@@ -1,0 +1,11 @@
+{
+    "status": {
+        "code": "B2000",
+        "message": "Calculate Success.",
+        "description": "Calculate Success."
+    },
+    "data": {
+        "client_encoded_key": #(client_encoded_key),
+        "credit_block_code": #(calculated_block_code)
+    }
+}
